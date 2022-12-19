@@ -1,0 +1,491 @@
+-
+  workout: |
+    - warmup to track
+    - 3-4x(800m @ I, 400m jog rest)
+    - 2x400m @ R, 400m jog rest
+    - 2-4x(200m @ R, 200m jog rest)
+    - Cooldown
+  tags: ['800m', '400m', '200m']
+-
+  workout: |
+    - warmup to track
+    - 4-6x(400m @ R, 400m jog rest)
+    - 6-8x(200m @ R, 200m jog rest)
+    - cooldown
+  tags: ['400m', '200m']
+-
+  workout: |
+    - warmup to track
+    - 1mi @ T pace, 1 min rest
+    - 1200m @ between I and T pace pace, 2 min rest
+    - 800m @ I, 2 min rest
+    - 400m @ R, 400m jog rest
+    - 2x200m @ R, 200m jog rest
+    - 2-4x hill repeats
+  tags: ['mile', '1200m', '800m', '400m', '200m', 'hill']
+-
+  workout: |
+    - warmup
+    - if running the 5k on Saturday: 3x1mi @ T, 2 min rest, 4x strides
+    - if not running the 5k on saturday:
+    - 2-3x200m @ R, 200m jog rest
+    - 2x400m @ R, 400m jog rest
+    - 2x1km @ I, 400m jog rest
+    - 2x400m @ R, 400m jog rest
+    - 2-3x200m @ R, 200m jog rest
+    - 10-15 min cooldown
+  tags: ['1km', '800m', '400m', '200m', 'pyramid']
+-
+  workout: |
+    - warmup
+    - 3x1mi @ T, 2 min rest, 4x strides
+  tags: ['mile']
+-
+  workout: |
+    - warmup to track
+    - 3-4x(800m @ I, 400m jog rest)
+    - 2x400m @ R, 400m jog rest
+    - 2-4x(200m @ R, 200m jog rest)
+    - 2-4x hill sprints
+    - cooldown
+  tags: ['800m', '400m', '200m', 'hill']
+-
+  workout: |
+    - warmup to track
+    - 1x1200m @ T, 1 min jog
+    - 1x800m @ I, 90-120 sec jog
+    - 2-6x400m @ R, 400m jog rest
+    - 3-8x200m @ R, 200m jog rest
+    - 4x100m strides
+    - cooldown
+  tags: ['1200m', '800m', '400m', '200m', 'strides']
+-
+  workout: |
+    - warmup to track
+    - 2x(3x3min @ I, 1:30 rest), 3 min rest)
+    - 1x10 min @ goal HM pace
+    - longer cooldown (at least 15 min)
+  tags: ['I', 'Interval', 'HM']
+-
+  workout: |
+    - warmup
+    - 3-5x(200m, 400m, 800m) @ R
+    - half distance jog in between sets
+    - Long cool down: 2-3 miles
+  tags: ['200m', '400m', '800m']
+-
+  workout: |
+    - warmup
+    - 3-4x(1mi @ T, 2 min jog rest)
+    - cooldown
+  tags: ['mile']
+-
+  workout: |
+    - warmup
+    - 2-4x of
+        - 1x400m @ R, 100m walk, 100m jog rest
+        - 1x1km @ I, 400m jog rest
+        - 2x200m @ R, 50m walk, 50m jog rest
+    - 4x voigt hill sprints
+    - cooldown
+  tags: ['400m', '1000m', '200m', 'hill']
+-
+  workout: |
+    - warmup
+    - 2x600m @ R w/ 600 jog
+    - 3x400m @ R w/ 400 jog
+    - 4x200m @ R w/ 200 jog
+    - cooldown
+  tags: ['600m', '400m', '200m']
+-
+  workout: |
+    - easy warmup to LJ farms loop
+    - pyramid of I-pace intervals with equivalent rest (e.g. 1 min @ I, 1 min rest, 2 @ I, 2 rest)
+    - pyramid options:
+        - (1, 2, 3, 4, 4, 3, 2, 1)
+        - (1, 2, 3, 4, 5, 4, 3, 2, 1)
+        - or similar
+        - try to get at least 20-30 minutes of fast running in
+    - 4-6x hill sprints @ LJ farms loop
+    - easy cooldown back to CSE
+  tags: ['Intervals', 'hill']
+-
+  workout: |
+    - warmup
+    - 2-6x(200m jog, 200m @ R, 200m jog, 200m @ R, 400m jog, 400m @ R)
+    - (optional) 2x4min @ T, 2 min rest
+    - cooldown
+  tags: ['200m', '400m', 'threshold']
+-
+  workout: |
+    - warmup
+    - 4x(1km @ I, 3 min jog rest)
+    - 2x(400m @ R, 400m jog rest)
+    - 2x(200m @ R, 200m jog rest)
+    - cooldown
+  tags: ['200m', '400m', '1000m']
+-
+  workout: |
+    - warmup to track
+    - 1-4x(1 mi @ T, 1 min rest)
+    - 2-4x(3 min @ I, 2 min rest)
+    - 2-8x(200 @ R, 200m jog rest)
+    - cooldown
+  tags: ['mile', 'I', '200m', 'Intervals']
+-
+  workout: |
+    - 10-15 min warmup
+    - 10 min threshold, 2 min rest
+    - 8 min threshold, 2 min rest
+    - 6 min threshold, 2 min rest
+    - (optional) 4 minute threshold
+    - 5-10 min jogging to a hill
+    - 4-8x hill sprints
+    - 5-15 min cooldown
+  tags: ['interval', 'hill']
+-
+  workout: |
+    - warmup to track
+    - 1x mile @ T, 1 min rest
+    - 2-4x(3min @ I pace, 2 min jog rest)
+    - 2-6x(200m @ R, 200m jog rest)
+    - cooldown
+  tags: ['mile', 'interval', '200m']
+-
+  workout: |
+    - warmup to LJ farms
+    - 3-5x(5 min @ somewhere between M and T pace, 2.5 min jog rest)
+    - cooldown back to CSE
+  tags: ['marathon', 'threshold']
+-
+  workout: |
+    - warmup over to LJ farms loop
+    - 10-20x(1 min "fast", 1 min slow)
+    - cooldown back to CSE
+  tags: ['interval', 'fartlek']
+-
+  workout: |
+    - warmup
+    - 1x(200m, 300m, 400m, 300m, 200m) @ R, 1:2 run:rest
+    - 3x1km @ I, 1:1 rest
+    - addt'l 1min rest
+    - 2x(100m, 200m, 300m, 200m, 100m) @ R, 1:2 run:rest
+    - cooldown
+  tags: ['pyramid', '100m', '200m', '300m', '400m', '1km']
+-
+  workout: |
+    - warmup
+    - 6-8x(2min ~T, 30s ~5k pace, 1 min jog)
+    - cooldown
+  tags: ['threshold', '5k']
+-
+  workout: |
+    - warmup
+    - 5x2 min @ ~5k, 1 min jog rest
+    - 2x5 min @ T, 1 min jog rest
+    - cooldown
+  tags: ['threshold', '5k']
+-
+  workout: |
+    - warmup
+    - 2x12 min @ T, 2 min jogging rest in between
+    - cooldown, ideally ~15 min
+  tags: ['threshold']
+-
+  workout: |
+    - warmup
+    - 4x200m @ R
+    - 3x600m @ I
+    - 4x200m @ R
+    - cooldown
+  tags: ['200m', '600m']
+-
+  workout: |
+    - warmup
+    - 7x(3 min @ I, 1 min rest)
+    - cooldown
+  tags: ['interval']
+-
+  workout: |
+    - warmup
+    - 6-10x(400m @ R, 200m jog rest)
+    - cooldown
+  tags: ['400m']
+-
+  workout: |
+    - warmup
+    - 3x1 mile, progressively faster each mile (roughly 15-20 seconds faster)
+    - cooldown
+  tags: ['interval']
+-
+  workout: |
+    - 15 min warmup
+    - All reps @ R pace, Drop the number of reps if distance is too much
+    - 2x200m w/ 100m jog rest
+    - 2x400m w/ 200m jog rest
+    - 2x800m w/ 400m jog rest
+    - 2x400m w/ 200m jog rest
+    - 2x200m w/ 100m jog rest
+    - cooldown
+  tags: ['200m', '400m', '800m']
+-
+  workout: |
+    - warmup
+    - 4x(5 min @ T, 2 min rest)
+    - cooldown
+  tags: ['threshold']
+-
+  workout: |
+    - 10 min warmup
+    - 6x(3 min @ I, 2 min jog rest)
+    - 10 min cooldown
+  tags: ['interval']
+-
+  workout: |
+    - 10 min warmup
+    - 2x(1 mile @ T, 1 min rest)
+    - 2x(800m @ I, 400m jog rest)
+    - 4x(400m @ R, 400m jog rest)
+    - cooldown
+  tags: ['mile', '800m', '400m']
+-
+  workout: |
+    - warmup
+    - 2x(15 min goal HM pace, 3 min rest)
+    - cooldown
+  tags: ['HM']
+-
+  workout: |
+    - 10-15 min warmup
+    - 2x800m
+    - 1xkm
+    - 1x1600m
+    - 1xkm
+    - 2x800m
+    - cooldown
+  tags: ['800m', '1000m', 'mile']
+-
+  workout: |
+    - 10 min warmup
+    - 5-15x(1 min "hard" (around 5k pace), 30s easy jog/walk)
+    - 10-15 min cooldown
+  tags: ['5k']
+-
+  workout: |
+    - 10 min warmup
+    - 4x400m @ I pace, 60s jog rest
+    - 2x1000m @ I pace, 120s jog rest
+    - 4x400m @ I pace, 60s jog rest
+    - (bonus) 1000m
+    - 4x strides
+    - cooldown
+  tags: ['400m', '1000m', 'strides']
+-
+  workout: |
+    - 10 min warmup
+    - 2-3x 1 mile @ Threshold. 2 min rest
+    - cooldown
+  tags: ['mile', 'threshold']
+-
+  workout: |
+    - 10 min warmup
+    - 2x800m @ 10k
+    - 2x600m @ 5-10k
+    - 2x400m @ 5k
+    - 2x300m @ 5k
+    - 4x200m @ < 5k
+    - rest is half time. So if you run the rep in 2:00, you rest for 1:00. Jog or walk.
+    - 4x strides
+    - cooldown
+  tags: ['800m', '600m', '400m', '300m', '200m', 'strides']
+-
+  workout: |
+    - 10 min warmup
+    - 3-4x(3 min "fast", 2 min jog rest)
+    - 10-15 min cooldown
+  tags: ['interval']
+-
+  workout: |
+    - warmup
+    - 2x(200m, 100m jog rest, 400m, 200m jog rest 800m, 400m jog rest)
+    - cooldown
+  tags: ['200m', '400m', '800m']
+-
+  workout: |
+    - 5-10 min warmup
+    - 4x(3x voigt hill rep, 3 min rest)
+    - 10-15 min cooldown
+  tags: ['hill']
+-
+  workout: |
+    - 10-15 min warmup
+    - pace progression (6 min @ marathon, 5 min @ half marathon, 4 min @ 10k, 3 min @ 5k
+    - 10-15 min cooldown
+  tags: ['marathon', 'half-marathon', '10k', '5k']
+-
+  workout: |
+    - 15 minute warmup
+    - 3x(4min @ 10k pace, 4 min rest)
+    - 15 min cooldown
+  tags: ['10k']
+-
+  workout: |
+    - 15 min warmup
+    - 8x(0.5 mile @ marathon, 0.5 mile easy)
+    - 10 min easy
+    - 6x strides
+    - cooldown
+  tags: ['marathon']
+-
+  workout: |
+    - 10 min warmup
+    - 2x1 mile @ threshold w/ 1 min rest
+    - 20 min cooldown
+  tags: ['mile', 'threshold']
+-
+  workout: |
+    - warmup: run down to la jolla shores + strides (~10-15 min)
+    - workout: hill sprints (5-8x) of 30s all-out up the LJS hill, 2-3 minute rest walking back down
+    - then 2-3x (3 minute uphill, 2-3 min rest jog back down)
+    - cooldown: jog back to CSE
+  tags: ['mile', 'threshold']
+-
+  workout: |
+    - 20 min warmup
+    - 15-20 min of marathon pace
+    - 10-15 min cooldown
+  tags: ['marathon']
+-
+  workout: |
+    - 10-15 min warmup
+    - 8x400m w/ 400m jog rest
+    - 10-15 min cooldown
+  tags: ['400m']
+-
+  workout: |
+    - 5-10 min warmup
+    - 3x(2km @ 10k pace, 3 min easy jog rest)
+    - 5-10 min cooldown
+  tags: ['200m', '10k']
+-
+  workout: |
+    - 15-20 min warmup
+    - 3x 1 mile @ threshold pace, 2 min jog rest
+    - 10-15 min cooldown
+  tags: ['mile', 'threshold']
+-
+  workout: |
+    - 10-15 min warmup
+    - 1-2x(600m w/600m jog rest)
+    - 2-3x(400m w/400m jog rest)
+    - 2-4x(200m w/200m jog rest)
+    - 10-15 min cooldown
+  tags: ['600m', '400m', '200m']
+-
+  workout: |
+    - warmup (no set time, just until you feel ready to hit 5k pace)
+    - 1xN @ 5k pace
+    - 2xN @ 10k pace
+    - 3xN @ marathon pace
+    - 10 min cooldown
+  tags: ['5k', '10k', 'marathon']
+-
+  workout: |
+    2 mile warmup
+    5-6x(1km @ a little faster than 5k, 400m jog rest)
+    2 mile cooldown
+  tags: ['1000m']
+-
+  workout: |
+    - 15 min warmup
+    - 12-15x(1 min @ 5k pace, 1 min easy)
+    - 15 min cooldown
+  tags: ['fartlek']
+-
+  workout: |
+    - 15 min warmup
+    - The workout itself is just alternating 200m jaunts at two different paces
+    - fast pace: equivalent to 1600m race pace (e.g. 6 min mile --> 45s 200ms)
+    - slow pace: equivalent to 133% of 1600m pace (e.g. 6 min mile --> 1.33 * 45s = 60s)
+    - 2x(6x(200m fast + 200m slow)), w/ a 3-5 minute recovery between the two sets of 6
+    - 10 min cooldown
+  tags: ['200m']
+-
+  workout: |
+    - 15 min warmup
+    - 3-4x(800m marathon pace, 800m threshold pace)
+    - 10 min cooldown
+  tags: ['800m', 'marathon', 'threshold']
+-
+  workout: |
+    - 20-25min warmup
+    - 2x1 mi @ Threshold, 1 min rest
+    - 3x200m w/ 200m float rest
+    - 10 min cooldown
+  tags: ['threshold', 'mile', '200m']
+-
+  workout: |
+    - 15 min warmup
+    - 3-4x(200m, 200m jog, 200m, 200m jog, 400m, 200m jog)
+    - 2 mi cooldown
+  tags: ['200m', '400m']
+-
+  workout: |
+    - 10 min warmup
+    - 3-4x 1mi @ T pace, 2 min rest between
+    - 2 mi cooldown
+
+  tags: ['mile', 'threshold']
+-
+  workout: |
+    - 10-15 min warmup
+    - 4-5x
+    - 200m @ R pace, 100m jog rest
+    - 400m @ R pace, 200m jog rest
+    - 1km @ I pace, 80-100% rest
+    - 10 min cooldown
+  tags: ['200m', '400m', '1000m']
+-
+  workout: |
+    - 10 min warmup
+    - 35-45 min of HM goal pace
+    - 10 min cooldown
+  tags: ['hm']
+-
+  workout: |
+    - 10 min warmup (jog to bottom of hill)
+    - 2x
+      - 5 min uphill @ 5-10k pace, 2:30 rest
+      - 4 min uphill @ 5-10k pace, 2:00 rest
+      - 3 min uphill @ 5-10k pace, 1:30 rest
+      - 2 min uphill @ 5-10k pace, 1:00 rest
+      - 1 min uphill @ 5-10k pace, jog to bottom of hill again as rest between reps
+    - 10 min cooldown
+
+  tags: ['5k', 'hill', 'agony']
+-
+  workout: |
+    - 10 min warmup
+    - tempo progression: 5 min M, 5 min HM, 5 mins 15k, 5 mins 10k, 5 mins 5k
+    - 10x 100m strides on the track
+    - 10 min cooldown
+  tags: ['strides']
+-
+  workout: |
+    - 10 min warmup
+    - Pyramid: 200m, 400m, 800m, 1600m, 1600m, 800m, 400m, 200m.
+      - Rest between each rep is going to be roughly 70-80% of your previous rep's time. e.g. after a 40 second 200m, rest approximately 30 seconds, then do the 400m. 400m in 80 seconds should be ~60 second rest, etc etc
+    - 10 min cooldown
+  tags: ['pyramid']
+-
+  workout: |
+    - 10 min warmup jog
+    - 4-5x
+      - 2 min @ 5k pace
+      - 1 min jog
+      - 1 min @ 5k pace
+      - 30s jog
+      - 30s @ 5k
+      - 2 min rest
+    - 10 min cooldown jog
+  tags: ['fartlek']

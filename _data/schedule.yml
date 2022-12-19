@@ -1,22 +1,22 @@
 
 -
   day: Monday
-  time: 7\:15AM
-  location: Urban Street Corner Market
-  location_link: https://goo.gl/maps/f3g5djkJVtYhd84G7
+  time: 7:15AM
+  location: Street Corner Urban Market
+  location_link: https://goo.gl/maps/Fjijp7vHFR8Gz5cCA
   type: easy run
   distance: 3-5 miles
 -
   day: Wednesday
-  time: 5\:00PM
+  time: 5:00PM
   location: UCSD CSE Bear
-  location_link: https://goo.gl/maps/f3g5djkJVtYhd84G7
+  location_link: https://goo.gl/maps/pkELUsMAH8hwMRjt9
   type: easy run
   distance: 3-5 miles
 -
   day: Thursday
-  time: 5\:00PM
+  time: 5:00PM
   location: UCSD CSE Bear
-  location_link: https://goo.gl/maps/f3g5djkJVtYhd84G7
+  location_link: https://goo.gl/maps/pkELUsMAH8hwMRjt9
   type: track workout
   distance: 3-7 miles
