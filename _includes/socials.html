@@ -1,0 +1,17 @@
+
+
+<table>
+    <thead>
+        {% for item in site.socials %}
+            <th style="text-align: center; vertical-align: middle;">
+                <a href="{{item[1].link}}" target="_blank">
+                    {% if item[1].logo %}
+                    <img src="{{item[1].logo}}"/ width="24">
+                    {% else %}
+                    {{item[0]}}
+                    {% endif %}
+                </a>
+            </th>
+        {% endfor %}
+    </thead>
+</table>

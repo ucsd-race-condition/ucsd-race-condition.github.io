@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is the official website for the graduate student running club at
   UC San Diego -- Race Condition!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ucsd-race-condition.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 logo: /favicon.ico
 sidebar_pages:
@@ -33,9 +33,17 @@ sidebar_pages:
   events: '/events/'
   about: '/about/'
   blog: '/blog/'
-  strava: 'https://strava.com/clubs/ucsd-cse'
-  discord: '???'
 
+socials:
+  strava:
+    logo: 'https://cdn.iconscout.com/icon/free/png-256/strava-3521743-2945187.png'
+    link: 'https://strava.com/clubs/ucsd-cse'
+  # discord:
+  #   logo: 'https://www.svgrepo.com/show/353655/discord-icon.svg'
+  #   link: ???
+  photos:
+    logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Photos_icon_%282020%29.svg/2048px-Google_Photos_icon_%282020%29.svg.png'
+    link: https://photos.app.goo.gl/7t6ubE2zFQvJS6h98
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
