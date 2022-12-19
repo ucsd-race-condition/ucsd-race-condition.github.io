@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Routes
+permalink: /routes/
 ---
 
 {% assign routes = site.data.workouts.routes | sort: "distance" %}
