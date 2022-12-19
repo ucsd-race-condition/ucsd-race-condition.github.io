@@ -30,4 +30,7 @@ You can find all the most up-to-date info about the club below:
 {% include schedule.md %}
 
 
-<iframe allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/1066878/latest-rides/d19c8eb5ec7c26210938c87183dbacbc7534711e?show_rides=false' width='500'></iframe>
+<div class="overflow-scroll">
+    <iframe allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/1066878/latest-rides/d19c8eb5ec7c26210938c87183dbacbc7534711e?show_rides=false' width='500'></iframe>
+
+</div>
