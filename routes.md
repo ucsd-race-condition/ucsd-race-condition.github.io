@@ -10,11 +10,12 @@ permalink: /routes/
 <div>
     <table>
         <thead>
-            <th>Day</th>
-            <th>Time</th>
-            <th>Location</th>
-            <th>Type</th>
+            <th>#</th>
+            <th>Link</th>
             <th>Distance</th>
+            <th>Elevation</th>
+            <th>Start</th>
+            <th>Tags</th>
         </thead>
         <tbody>
             {%- for route in routes %}
