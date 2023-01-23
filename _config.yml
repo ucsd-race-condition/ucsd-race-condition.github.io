@@ -44,6 +44,9 @@ socials:
   photos:
     logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Photos_icon_%282020%29.svg/2048px-Google_Photos_icon_%282020%29.svg.png'
     link: https://photos.app.goo.gl/7t6ubE2zFQvJS6h98
+  slack:
+    logo: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg'
+    link: https://join.slack.com/t/ucsdracecondition/shared_invite/zt-1mtesu2e8-xtVKK3IhaDL556B5kVOOPA
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
