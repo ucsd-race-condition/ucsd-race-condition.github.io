@@ -29,7 +29,6 @@ url: "https://ucsd-race-condition.github.io" # the base hostname & protocol for 
 logo: /favicon.ico
 sidebar_pages:
   schedule: '/schedule/'
-  routes: '/routes/'
   events: '/events/'
   about: '/about/'
   blog: '/blog/'

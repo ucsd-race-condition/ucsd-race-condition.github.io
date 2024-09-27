@@ -20,7 +20,6 @@ enjoyable activity which has many health benefits and can be lots of fun
 You can find all the most up-to-date info about the club below:
 
 - [Current Running Schedule](/schedule/)
-- [Routes and Workouts](/routes/)
 - [Past and Planned Races](/events/)
 - [Blog](/blog/)
 - [About](/about/)
