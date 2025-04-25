@@ -1,21 +1,21 @@
 -
+  day: Monday
+  time: 6:00PM
+  location: UCSD CSE Bear
+  location_link: https://maps.app.goo.gl/an471vxeVA7GgAvb7
+  type: prehab
+  distance: 1-2 miles
+-
   day: Tuesday
-  time: 5:00PM
+  time: 6:00PM
   location: Revelle Plaza
   location_link: https://maps.app.goo.gl/5jgiRMBY53a7uNp98
   type: easy run
   distance: 3-5 miles
 -
   day: Thursday
-  time: 5:00PM
+  time: 6:00PM
   location: UCSD CSE Bear
   location_link: https://maps.app.goo.gl/an471vxeVA7GgAvb7
   type: track workout
   distance: 3-7 miles
--
-  day: Friday
-  time: 5:30PM
-  location: Mission Brewing
-  location_link: https://maps.app.goo.gl/bk7qJfcguKeVbSnV6
-  type: easy run
-  distance: 3-5 miles
